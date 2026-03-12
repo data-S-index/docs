@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Scholar Data Documentation"
   text: "Documentation for Scholar Data"
-  tagline: My great project tagline
+  tagline: Give your datasets the credit they deserve.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About Scholar Data
+      link: /about
+    - theme: default
+      text: View GitHub Repository
+      link: https://github.com/data-S-index
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
