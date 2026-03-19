@@ -31,7 +31,7 @@ The steps for computing the D-index live differ slightly from our auto-processed
 7. Compute D-index
 8. Generate dataset impact page
 
-We refer to the [Data Collection](/data-collection) section for more details about some of these steps.
+We refer to the Data Collection section for more details about some of these steps.
 
 ## Platform Metrics
 
