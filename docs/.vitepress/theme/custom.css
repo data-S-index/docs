@@ -1,0 +1,14 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #00bc7d;  /* primary — links, active sidebar */
+  --vp-c-brand-2: #00a36d;  /* hover states */
+  --vp-c-brand-3: #008a5c;  /* deep hover/active */
+  --vp-c-brand-soft: rgba(0, 188, 125, 0.12); /* soft backgrounds */
+}
+
+.dark {
+  --vp-c-brand-1: #00bc7d;  /* works well on dark bg as-is */
+  --vp-c-brand-2: #00d48d;  /* slightly lighter for hover */
+  --vp-c-brand-3: #00bc7d;  /* back to base for deep states */
+  --vp-c-brand-soft: rgba(0, 188, 125, 0.14);
+}
