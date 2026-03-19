@@ -7,11 +7,11 @@ hero:
   tagline: Documentation for the Scholar Data platform - track, measure, and showcase the impact of your shared research data.
   actions:
     - theme: brand
-      text: Get Started
+      text: Create your profile and track your S-index
+      link: https://beta.scholardata.io
+    - theme: alt
+      text: Learn more about our approach
       link: /about
-    - theme: default
-      text: View on GitHub
-      link: https://github.com/data-S-index/web-app
 
 features:
   - icon: 📊
