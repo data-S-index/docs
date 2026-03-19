@@ -1,45 +1,79 @@
 import { defineConfig } from "vitepress";
+import texmath from "markdown-it-texmath";
+import katex from "katex";
 
 // https://vitepress.dev/reference/site-config
+
 export default defineConfig({
   title: "Scholar Data Documentation",
   description: "Documentation for Scholar Data",
+  markdown: {
+    config: (md) => {
+      md.use(texmath, {
+        engine: katex,
+        delimiters: "dollars",
+      });
+    },
+  },
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css",
+      },
+    ],
+  ],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about" },
-      { text: "Features", link: "/features/" },
+      { text: "For Researchers", link: "/for-researchers" },
+      { text: "Browse and Explore", link: "/browse-explore" },
+      { text: "Concepts", link: "/concepts" },
       { text: "Data Collection", link: "/data-collection/" },
-      { text: "S-index Calculation", link: "/s-index-calculation/" },
     ],
 
     sidebar: [
       { text: "About", link: "/about", items: [] },
       {
-        text: "Features",
-        link: "/features/",
-        items: [
-          { text: "Sign Up", link: "/features/sign-up" },
-          { text: "Getting Your S-index", link: "/features/s-index" },
-          { text: "Auto-created Profiles", link: "/features/profiles" },
-        ],
+        text: "For Researchers",
+        link: "/for-researchers",
+        items: [],
+      },
+      { text: "Browse and Explore", link: "/browse-explore", items: [] },
+      {
+        text: "Concepts",
+        link: "/concepts",
+        items: [],
       },
       {
         text: "Data Collection",
         link: "/data-collection/",
         items: [
-          {
-            text: "Dataset Metadata",
-            link: "/data-collection/dataset-metadata",
-          },
+          { text: "Datasets", link: "/data-collection/datasets" },
+          { text: "FAIR Scores", link: "/data-collection/fair-scores" },
           { text: "Citations", link: "/data-collection/citations" },
           { text: "Mentions", link: "/data-collection/mentions" },
-          { text: "FAIR Scores", link: "/data-collection/fair-scores" },
+          { text: "Research Fields", link: "/data-collection/research-fields" },
+          {
+            text: "Normalization Factors",
+            link: "/data-collection/normalization-factors",
+          },
+          { text: "D-index Calculation", link: "/data-collection/d-index" },
+          { text: "S-index Calculation", link: "/data-collection/s-index" },
         ],
       },
       {
-        text: "S-index Calculation",
-        link: "/s-index-calculation/",
+        text: "Integrations",
+        link: "/integrations",
         items: [],
       },
     ],
@@ -47,5 +81,9 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
+    footer: {
+      message:
+        'Documentation written with assistance from <a href="https://claude.ai">Claude</a> by Anthropic.',
+    },
   },
 });
