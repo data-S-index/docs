@@ -4,13 +4,13 @@ You don't need an account to explore Scholar Data. You can search auto-generated
 
 ## Searching Auto-generated Author Profiles
 
-The [Browse Profiles](https://beta.scholardata.io/search/au) page lets you search across 1M+ researcher profiles. These were auto-generated from large-scale preliminary testing across 49M datasets, by regrouping datasets based on author identifier first, then by name and affiliation. More details are provided in the [Data Collection](/data-collection) section.
+The [Browse Profiles](https://beta.scholardata.io/search/au) page lets you search across 1M+ researcher profiles. These were auto-generated from large-scale preliminary testing across 49M datasets, by regrouping datasets based on author identifier first, then by name and affiliation. More details are provided in the [Data Collection](/data-collection/datasets) section.
 
 Each auto-generated author profile shows the researcher's S-index, a list of their datasets, and the impact metrics associated with each one.
 
 ## Browsing Datasets
 
-The [Browse Datasets](https://beta.scholardata.io/search/datasets) page lets you search and filter across the 49M datasets Scholar Data has already processed (see the [Data Collection](/data-collection) section). Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
+The [Browse Datasets](https://beta.scholardata.io/search/datasets) page lets you search and filter across the 49M datasets Scholar Data has already processed (see the [Data Collection](/data-collection/datasets) section). Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
 
 This is useful for exploring how datasets in a particular field are performing, checking the impact of one of your datasets without loging in, or simply getting a feel for how the D-index scores vary across different types of datasets.
 

@@ -38,7 +38,7 @@ export default defineConfig({
       { text: "For Researchers", link: "/for-researchers" },
       { text: "Browse and Explore", link: "/browse-explore" },
       { text: "Concepts", link: "/concepts" },
-      { text: "Data Collection", link: "/data-collection/" },
+      { text: "Data Collection", link: "/data-collection/datasets" },
     ],
 
     sidebar: [
@@ -56,7 +56,6 @@ export default defineConfig({
       },
       {
         text: "Data Collection",
-        link: "/data-collection/",
         items: [
           { text: "Datasets", link: "/data-collection/datasets" },
           { text: "FAIR Scores", link: "/data-collection/fair-scores" },

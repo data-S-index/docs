@@ -16,7 +16,7 @@ To update your profile, log in and visit **My Profile**. From there you can edit
 
 Once your profile is set up, you can add datasets to it by clicking **Add a dataset** from your public page (this button will only be visible if you are logged in).
 
-At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection) section for more details). Scholar Data will automatically suggest datasets based on your name, ORCID, and identifier that you can rapidly add to your profile. You can also use the search bar to find for more datasets and add them to your profile.
+At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). Scholar Data will automatically suggest datasets based on your name, ORCID, and identifier that you can rapidly add to your profile. You can also use the search bar to find for more datasets and add them to your profile.
 
 ## Understanding Your S-index
 
