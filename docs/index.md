@@ -35,7 +35,7 @@ features:
   - icon: 🗂️
     title: Data Collection
     details: See exactly where the data on Scholar Data comes from — datasets, citations, mentions, FAIR scores, and how they were processed at scale.
-    link: /data-collection/
+    link: /data-collection/datasets
     linkText: Data collection methods
 
   - icon: 🔌
