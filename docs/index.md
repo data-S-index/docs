@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Create your profile and track your S-index
-      link: https://beta.scholardata.io
+      link: https://scholardata.io
     - theme: alt
       text: Learn more about our approach
       link: /about

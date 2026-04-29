@@ -32,6 +32,10 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
+    editLink: {
+      pattern: "https://github.com/data-S-index/docs/tree/main/docs/:path",
+    },
+    lastUpdated: true,
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about" },
@@ -77,9 +81,7 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/data-S-index" }],
     footer: {
       message:
         'Documentation written with assistance from <a href="https://claude.ai">Claude</a> by Anthropic.',
