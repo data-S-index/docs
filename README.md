@@ -8,11 +8,11 @@ Scholar Data is a platform for measuring, improving, and showcasing the impact o
 
 ## Getting Started
 
-**Prerequisites:** Node.js 24, Yarn 1.x
+**Prerequisites:** Node.js 24, pnpm 10
 
 ```bash
-yarn install
-yarn dev
+pnpm install
+pnpm dev
 ```
 
 The site will be available at `http://localhost:5173`.
@@ -21,9 +21,9 @@ The site will be available at `http://localhost:5173`.
 
 | Command             | Description              |
 | ------------------- | ------------------------ |
-| `yarn dev`          | Start local dev server   |
-| `yarn docs:build`   | Build for production     |
-| `yarn docs:preview` | Preview production build |
+| `pnpm dev`          | Start local dev server   |
+| `pnpm docs:build`   | Build for production     |
+| `pnpm docs:preview` | Preview production build |
 
 ## About the Platform
 
