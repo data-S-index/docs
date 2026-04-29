@@ -1,21 +1,24 @@
 # Scholar Data Documentation
 
-Documentation for the [Scholar Data](https://beta.scholardata.io) platform - built with [VitePress](https://vitepress.dev/).
+Documentation for the [Scholar Data](https://scholardata.io) platform - built with [VitePress](https://vitepress.dev/).
 
 Scholar Data is a platform for measuring, improving, and showcasing the impact of research datasets. It gives researchers and organizations a dedicated space to track and display how their shared data is being discovered, cited, and reused across the scientific community.
 
-**Explore it here:** [beta.scholardata.io](https://beta.scholardata.io)
+**Explore it here:** [scholardata.io](https://scholardata.io)
 
 ## Getting Started
 
-**Prerequisites:** Node.js 24, pnpm 10
+**Prerequisites:** Mise to handle the node and pnpm installation.
 
 ```bash
+mise trust # only needed the first time to trust this repository
+mise install
+
 pnpm install
 pnpm dev
 ```
 
-The site will be available at `http://localhost:5173`.
+The site will be available at `http://localhost:3000`.
 
 ## Scripts
 
