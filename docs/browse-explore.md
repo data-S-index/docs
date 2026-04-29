@@ -4,19 +4,19 @@ You don't need an account to explore Scholar Data. You can search auto-generated
 
 ## Searching Auto-generated Author Profiles
 
-The [Browse Profiles](https://beta.scholardata.io/search/au) page lets you search across 1M+ researcher profiles. These were auto-generated from large-scale preliminary testing across 49M datasets, by regrouping datasets based on author identifier first, then by name and affiliation. More details are provided in the [Data Collection](/data-collection/datasets) section.
+The [Browse Profiles](https://scholardata.io/search/au) page lets you search across 1M+ researcher profiles. These were auto-generated from large-scale preliminary testing across 49M datasets, by regrouping datasets based on author identifier first, then by name and affiliation. More details are provided in the [Data Collection](/data-collection/datasets) section.
 
 Each auto-generated author profile shows the researcher's S-index, a list of their datasets, and the impact metrics associated with each one.
 
 ## Browsing Datasets
 
-The [Browse Datasets](https://beta.scholardata.io/search/datasets) page lets you search and filter across the 49M datasets Scholar Data has already processed (see the [Data Collection](/data-collection/datasets) section). Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
+The [Browse Datasets](https://scholardata.io/search/datasets) page lets you search and filter across the 49M datasets Scholar Data has already processed (see the [Data Collection](/data-collection/datasets) section). Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
 
 This is useful for exploring how datasets in a particular field are performing, checking the impact of one of your datasets without loging in, or simply getting a feel for how the D-index scores vary across different types of datasets.
 
 ## Evaluating a Dataset by DOI or URL
 
-Can't find a dataset in the browse results? The [Evaluate](https://beta.scholardata.io/evaluate) page lets you submit any dataset DOI or URL and Scholar Data will generate its impact page on the spot.
+Can't find a dataset in the browse results? The [Evaluate](https://scholardata.io/evaluate) page lets you submit any dataset DOI or URL and Scholar Data will generate its impact page on the spot.
 
 This is the fastest way to check the metrics for a specific dataset that hasn't been pre-processed yet in the Scholar Data database, or to get a fresh read on one that may have accumulated new citations since it was last updated in the Scholar Data database.
 
@@ -35,6 +35,6 @@ We refer to the Data Collection section for more details about some of these ste
 
 ## Platform Metrics
 
-The [Platform Metrics](https://beta.scholardata.io/metrics) page shows a live snapshot of Scholar Data's overall coverage: how many datasets have been tracked, how many citations and mentions have been found, and how many FAIR scores have been computed.
+The [Platform Metrics](https://scholardata.io/metrics) page shows a live snapshot of Scholar Data's overall coverage: how many datasets have been tracked, how many citations and mentions have been found, and how many FAIR scores have been computed.
 
 It's a useful reference for understanding the scale of the index and how comprehensively your field may be represented.

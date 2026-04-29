@@ -6,7 +6,7 @@ Anyone can create a profile and track their data sharing impact: researchers, re
 
 ## Creating and Managing Your Profile
 
-To get started, [sign up for an account](https://beta.scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
+To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
 
 Once registered, you will have a public researcher profile that displays your datasets and impact metrics.
 
