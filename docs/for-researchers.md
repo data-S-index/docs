@@ -4,6 +4,15 @@ Scholar Data gives you a dedicated profile to track the impact of your shared da
 
 Anyone can create a profile and track their data sharing impact: researchers, research labs, institutions, consortiums, and more.
 
+## Why Create a Profile?
+
+Your datasets are driving discovery, but without a way to measure and showcase that impact, the credit often goes unrecognized. A Scholar Data profile lets you:
+
+- **See who is using your data.** Track citations and mentions across publications, code repositories, patents, and policy documents.
+- **Strengthen your CV and grant applications.** Your S-index gives reviewers and institutions a single, interpretable score that reflects your data sharing contributions.
+- **Improve your datasets.** FAIR scores show you exactly where your datasets can be made more FAIR.
+- **Get credit you didn't know you had.** Many researchers discover their datasets have been cited or reused in ways they were never notified about.
+
 ## Creating and Managing Your Profile
 
 To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
@@ -20,8 +29,15 @@ At this stage, you can only add datasets that are registered in the Scholar Data
 
 ## Understanding Your S-index
 
-Once you add datasets, you will see your **S-index** (Sharing Index) on your profile page. It is your top-level data sharing impact score. It works similarly to the h-index for publications: it reflects how broadly and consistently your datasets are made FAIR, being cited, and receiving mentions.
+Once you add datasets, you will see your **S-index** (Sharing Index) on your profile page. It is your top-level data sharing impact score. It works similarly to the h-index for publications: it reflects how broadly and consistently your datasets are made FAIR, cited, and mentioned.
 
 The S-index is computed across all the datasets on your profile, with field normalization applied so that scores remain comparable across disciplines. As you add more datasets, and as existing datasets accumulate more citations and mentions, your S-index will update to reflect your growing impact.
 
 For more information about the S-index, we refer to the [Concepts](/concepts) section.
+
+## Sharing and Showcasing Your Profile
+
+Your Scholar Data profile is public and linkable. You can, for instance:
+
+- Add the URL to your CV, ORCID profile, or lab website
+- Share it directly with grant reviewers or hiring committees

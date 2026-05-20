@@ -1,6 +1,6 @@
 # About Scholar Data
 
-Scholar Data is a platform for measuring, improving, and showcasing the impact of research datasets. It gives researchers and organizations a dedicated space to track and display how their shared data is being discovered, cited, and reused across the scientific community.
+Scholar Data is a platform for measuring, improving, and showcasing the impact of research datasets. It gives researchers and organizations a dedicated space to track and display how their shared datasets are being discovered, cited, and reused across the scientific community.
 
 ## Background
 
@@ -8,7 +8,7 @@ Despite growing adoption of data sharing in research, there has been no standard
 
 Scholar Data is being developed as part of an [NIH-organized Challenge](https://www.nei.nih.gov/research-and-training/research-news/nih-challenge-aimed-incentivizing-data-sharing-recognizes-phase-1-winners) to address this gap. The platform introduces the **S-index** (Sharing Index), a novel metric that evaluates a researcher's data sharing impact based on dataset-level signals of FAIRness, citations, and alternative mentions.
 
-The S-index and Scholar Data efforts are conducted by a multidiciplinary team of researchers led by [Bhavesh Patel](https://www.linkedin.com/in/bvhpatel), with major contributions from [Sanjay Soundarajan](https://www.linkedin.com/in/sanjay-soundarajan/), and support from [Aaron Lee](https://www.linkedin.com/in/leeay/), [Cecilia Lee](https://www.linkedin.com/in/cecilia-s-lee-md-ms-3129102a0/), [James O'Neill](https://www.linkedin.com/in/jimnoneill/), and [Aydan Gasimova](https://github.com/Aydawka).
+The S-index and Scholar Data efforts are conducted by a multidisciplinary team of researchers led by [Bhavesh Patel](https://www.linkedin.com/in/bvhpatel), with major contributions from [Sanjay Soundarajan](https://www.linkedin.com/in/sanjay-soundarajan/), and support from [Aaron Lee](https://www.linkedin.com/in/leeay/), [Cecilia Lee](https://www.linkedin.com/in/cecilia-s-lee-md-ms-3129102a0/), [James O'Neill](https://www.linkedin.com/in/jimnoneill/), and [Aydan Gasimova](https://github.com/Aydawka).
 
 ## What is the S-index?
 
@@ -29,7 +29,7 @@ For more details, we refer to the [Concepts](/concepts) section.
 Scholar Data currently provides the following features:
 
 - **Researcher profiles**: Create a profile, claim your datasets (from the 49M+ that are currently indexes in the platform), and track your S-index and dataset metrics over time.
-- **Author browsing**: Explore 1M+ auto-generated author profiles built from preliminary large-scale testing across 49M datasets.
+- **Author browsing**: Explore user created profiles as well as 1M+ auto-generated author profiles built from preliminary large-scale testing across 49M datasets.
 - **Dataset browsing**: View impact pages for the 49M datasets already processed, including D-index, FAIR scores, citations, and mentions.
 - **Live dataset evaluation**: Submit any dataset DOI or URL to generate its impact page in real time.
 - **Repository integrations**: Embed a metrics widget or query the API to display dataset impact directly in your own platform or README.
@@ -43,7 +43,7 @@ The platform's source code is open and available in the [Scholar Data GitHub rep
 
 ## Platform Status
 
-Scholar Data is currently in **public beta**, released for testing and demonstrating the potential of the S-index as part of the NIH S-index Challenge. Features and data may change as the platform develops toward a full launch.
+In response to community interest, Scholar Data has **officially launched** in May 2026 as a full platform. What began as a public beta as part of the NIH S-index Challenge has grown into a production-ready service, with researchers actively creating profiles, claiming datasets, and tracking their data sharing impact.
 
 ## Contact
 
