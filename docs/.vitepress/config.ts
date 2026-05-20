@@ -7,6 +7,7 @@ import katex from "katex";
 export default defineConfig({
   title: "Scholar Data Documentation",
   description: "Documentation for Scholar Data",
+  cleanUrls: true,
   markdown: {
     config: (md) => {
       md.use(texmath, {
@@ -126,7 +127,6 @@ export default defineConfig({
         items: [],
       },
     ],
-
     socialLinks: [{ icon: "github", link: "https://github.com/data-S-index" }],
     footer: {
       message:
