@@ -1,4 +1,4 @@
-# Integrations
+# For Data Repositories
 
 Scholar Data provides two ways to display dataset impact metrics like D-index, FAIR score, citations, and mentions, directly in your own platform, without sending users to Scholar Data to look them up.
 

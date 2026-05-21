@@ -98,6 +98,11 @@ export default defineConfig({
         link: "/for-researchers",
         items: [],
       },
+      {
+        text: "For Data Repositories",
+        link: "/for-repositories",
+        items: [],
+      },
       { text: "Browse and Explore", link: "/browse-explore", items: [] },
       {
         text: "Concepts",
@@ -119,11 +124,6 @@ export default defineConfig({
           { text: "D-index Calculation", link: "/data-collection/d-index" },
           { text: "S-index Calculation", link: "/data-collection/s-index" },
         ],
-      },
-      {
-        text: "Integrations",
-        link: "/integrations",
-        items: [],
       },
     ],
 

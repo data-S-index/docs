@@ -37,4 +37,4 @@ The steps for computing the D-index live differ slightly from our auto-processed
 
 The [Platform Metrics](https://scholardata.io/metrics) page shows a live snapshot of Scholar Data's overall coverage: how many datasets have been tracked, how many citations and mentions have been found, and how many FAIR scores have been computed.
 
-It's a useful reference for understanding the scale of the index and how comprehensively your field may be represented.
+It's a useful reference for understanding the scale of the platform and how comprehensively your field may be represented.

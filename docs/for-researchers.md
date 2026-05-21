@@ -4,6 +4,8 @@ Scholar Data gives you a dedicated profile to track the impact of your shared da
 
 Anyone can create a profile and track their data sharing impact: researchers, research labs, institutions, consortiums, and more.
 
+**→ Ready to create your profile and brag about your datasets? Head straight to the [Scholar Data](https://scholardata.io).**
+
 ## Why Create a Profile?
 
 Your datasets are driving discovery, but without a way to measure and showcase that impact, the credit often goes unrecognized. A Scholar Data profile lets you:
@@ -19,13 +21,13 @@ To get started, [sign up for an account](https://scholardata.io/signup). While o
 
 Once registered, you will have a public researcher profile that displays your datasets and impact metrics.
 
-To update your profile, log in and visit **My Profile**. From there you can edit your name, affiliation, and other details. You can also update your password and delete your profile from there.
+To update your profile, log in and visit the **My Profile** page. From there you can edit your name, affiliation, and other details. You can also update your password and delete your profile from there.
 
 ## Adding and Claiming Your Datasets
 
 Once your profile is set up, you can add datasets to it by clicking **Add a dataset** from your public page (this button will only be visible if you are logged in).
 
-At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). Scholar Data will automatically suggest datasets based on your name, ORCID, and identifier that you can rapidly add to your profile. You can also use the search bar to find for more datasets and add them to your profile.
+At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). Scholar Data will automatically suggest datasets based on your name and identifier that you can rapidly add to your profile. You can also use the search bar to find more datasets and add them to your profile.
 
 ## Understanding Your S-index
 

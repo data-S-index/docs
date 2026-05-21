@@ -34,7 +34,7 @@ features:
 
   - icon: 🔌
     title: Integrate with Your Repository
-    details: Embed a live metrics widget or query the API to display D-index scores, FAIR scores, citations, and mentions directly in your platform.
-    link: /integrations
+    details: Embed a live metrics widget or query the API to display D-index scores, FAIR scores, citations, and mentions of your datasets directly in your platform.
+    link: /for-repositories
     linkText: Integration guide
 ---
