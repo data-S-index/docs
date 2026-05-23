@@ -28,10 +28,6 @@ The site will be available at `http://localhost:3000`.
 | `pnpm docs:build`   | Build for production     |
 | `pnpm docs:preview` | Preview production build |
 
-## About the Platform
-
-Scholar Data is developed as part of an [NIH S-index Challenge](https://www.nei.nih.gov/research-and-training/research-news/nih-challenge-aimed-incentivizing-data-sharing-recognizes-phase-1-winners) to incentivize and measure research data sharing. It currently indexes 49M+ datasets and 1M+ author profiles.
-
 ## Contributing
 
 Open an issue or pull request in this repository, or visit the [main app repository](https://github.com/data-S-index/web-app).
