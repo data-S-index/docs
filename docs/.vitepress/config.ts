@@ -118,11 +118,9 @@ export default defineConfig({
           { text: "Mentions", link: "/data-collection/mentions" },
           { text: "Research Fields", link: "/data-collection/research-fields" },
           {
-            text: "Normalization Factors",
-            link: "/data-collection/normalization-factors",
+            text: "Auto-Generated Profiles",
+            link: "/data-collection/auto-profiles",
           },
-          { text: "D-index Calculation", link: "/data-collection/d-index" },
-          { text: "S-index Calculation", link: "/data-collection/s-index" },
         ],
       },
     ],

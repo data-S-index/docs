@@ -1,6 +1,6 @@
 # Mentions
 
-This page describes how alternative mentions of datasets were identified across the Scholar Data corpus. Unlike formal citations, alternative mentions capture dataset reuse in contexts where standard citation practices are less common or not established, such as code repositories, machine learning models, and patents.
+This page describes how alternative mentions of datasets are identified for dataset in the Scholar Data database. Unlike formal citations, alternative mentions capture dataset reuse in contexts where standard citation practices are less common or not established, such as code repositories, machine learning models, and patents.
 
 ## Sources
 
@@ -47,4 +47,4 @@ signals is considered the right approach at the moment to incentivize and reward
 
 - The code repository, model card, or patent was published after the last database
   update
-- The mention appears in a platform not yet covered by the three sources above
+- The mention appears in a platform not yet covered by the sources listed above

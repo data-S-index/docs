@@ -1,6 +1,6 @@
 # For Researchers
 
-Scholar Data gives you a dedicated profile to track the impact of your shared datasets: your citations, FAIR scores, and S-index, all in one place. If you've used Google Scholar to track your publication impact, Scholar Data will feel immediately familiar: it's intentionally designed that way, bringing the same kind of visibility and credibility to your datasets that Google Scholar brought to your papers.
+Scholar Data gives you a dedicated profile to track the impact of your shared datasets: your citations, FAIR scores, and S-index, all in one place. If you have used Google Scholar to track your publication impact, Scholar Data will feel immediately familiar: it's intentionally designed that way, bringing the same kind of visibility and credibility to your datasets that Google Scholar brought to your papers.
 
 Anyone can create a profile and track their data sharing impact: researchers, research labs, institutions, consortiums, and more.
 
@@ -10,9 +10,9 @@ Anyone can create a profile and track their data sharing impact: researchers, re
 
 Your datasets are driving discovery, but without a way to measure and showcase that impact, the credit often goes unrecognized. A Scholar Data profile lets you:
 
+- **Showcase your datasets.** Add all your datasets to your profile and showcase your data sharing effort.
 - **See who is using your data.** Track citations and mentions across publications, code repositories, patents, and policy documents.
 - **Strengthen your CV and grant applications.** Your S-index gives reviewers and institutions a single, interpretable score that reflects your data sharing contributions.
-- **Improve your datasets.** FAIR scores show you exactly where your datasets can be made more FAIR.
 - **Get credit you didn't know you had.** Many researchers discover their datasets have been cited or reused in ways they were never notified about.
 
 ## Creating and Managing Your Profile

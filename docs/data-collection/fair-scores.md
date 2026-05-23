@@ -1,7 +1,6 @@
 # FAIR Scores
 
-FAIR scores measure how Findable, Accessible, Interoperable, and Reusable a dataset
-is, based on its metadata and landing page.
+This page explains how FAIR scores are calculated for the the datasets in the Scholar Data database.
 
 ## How FAIR Scores Are Calculated
 

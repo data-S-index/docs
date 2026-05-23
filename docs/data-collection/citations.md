@@ -1,6 +1,6 @@
 # Citations
 
-This page describes how formal citations to datasets were identified across the Scholar Data corpus. Three complementary sources were used to ensure the most thorough coverage possible.
+This page describes how citations to datasets are identified for datasets in the Scholar Data database. Three complementary sources are used to ensure the most thorough coverage possible.
 
 ## Sources
 
@@ -33,4 +33,4 @@ counted twice. Scholar Data currently tracks over 7.6 million unique citations t
 ## Why Might a Citation Be Missing?
 
 - The citing paper was published after the last database update
-- The citation appears in a source not yet covered by any of the three sources above
+- The citation appears in a source not yet covered by any of the sources listed above

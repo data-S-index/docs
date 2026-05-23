@@ -2,12 +2,6 @@
 
 This page explains how Scholar Data calculates the S-index and Dataset Index (D-index).
 
-## The Problem
-
-Despite growing adoption of data sharing in research, there is no standardized, transparent, or equitable way to measure and reward it. Publication metrics like the h-index are well established, but datasets, which often drive discovery just as much as papers, have no equivalent. Researchers who invest in sharing high-quality data have had little way to demonstrate that impact.
-
-The S-index was developed as part of the [NIH S-index Challenge](http://nei.nih.gov/research-and-training/research-news/nih-challenge-aimed-incentivizing-data-sharing-recognizes-phase-1-winners) to address this gap.
-
 ## Proposed S-index
 
 We introduce a framework in which a dataset $i$ is assigned a **Dataset Index** $D_i$ that combines FAIRness, scholarly citations, and alternative mentions. A researcher's **S-index** is then defined as the sum of the Dataset Indices of their $N$ datasets:
@@ -29,6 +23,8 @@ $$
 Here, $\Delta t$ represents the time in years between the citation/mention event and the dataset’s publication. This weighting is designed to reward sustained reuse: a citation/mention on the day of dataset publication counts as 1, while one 20 years later counts as 2.
 
 $F_T$, $C_{T}^w$, and $M_{T}^w$ are normalization factors intended to control for differences in field size, data reuse culture, and changing practices over time. They are calculated as 3-year moving medians based on datasets from the same field.
+
+## Example
 
 An example of S-index calculation is provided in **Fig. 1**. Calculation only requires dataset metadata from existing infrastructure, enabling large-scale calculation regardless of dataset size, format, reuse license, and access conditions.
 

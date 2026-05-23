@@ -2,9 +2,9 @@
 
 You don't need an account to explore Scholar Data. You can search user profiles, dig into dataset impact pages, evaluate any dataset by DOI or URL, and view aggregate platform statistics without signing in.
 
-## Searching User Profiles
+## Browsing Profiles
 
-The [Browse Profiles](https://scholardata.io/search/au) page lets you search across actual user profiles as well as researcher profiles that were auto-generated from the datasets indexed in the Scholar Data database. More details about these auto-generated profiles (indicated by an "Automated Author Profile" badge in the top left corner of the profile pages) are provided in the [Data Collection](/data-collection/datasets) section.
+The [Browse Profiles](https://scholardata.io/search/au) page lets you search across actual user profiles as well as researcher profiles that were auto-generated from the datasets indexed in the Scholar Data database. More details about these auto-generated profiles (indicated by an "Automated Author Profile" badge in the top left corner of the profile pages) are provided in the [Data Collection](/data-collection/auto-profiles) section.
 
 Each profile shows the researcher's S-index, other impact metrics, and a list of their datasets.
 

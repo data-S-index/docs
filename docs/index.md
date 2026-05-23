@@ -28,7 +28,7 @@ features:
 
   - icon: 🗂️
     title: Data Collection
-    details: See exactly where the data on Scholar Data comes (datasets, citations, mentions, FAIR scores, etc.) and how they are processed at scale.
+    details: See exactly where the data on Scholar Data (datasets, citations, mentions, FAIR scores, etc.) come from and how they are processed at scale.
     link: /data-collection/datasets
     linkText: Data collection methods
 
