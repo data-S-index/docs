@@ -99,6 +99,11 @@ export default defineConfig({
         link: "/for-researchers",
         items: [],
       },
+      {
+        text: "For Data Repositories",
+        link: "/for-repositories",
+        items: [],
+      },
       { text: "Browse and Explore", link: "/browse-explore", items: [] },
       {
         text: "Concepts",
@@ -108,23 +113,17 @@ export default defineConfig({
       {
         text: "Data Collection",
         items: [
+          { text: "Overview", link: "/data-collection/overview" },
           { text: "Datasets", link: "/data-collection/datasets" },
           { text: "FAIR Scores", link: "/data-collection/fair-scores" },
           { text: "Citations", link: "/data-collection/citations" },
           { text: "Mentions", link: "/data-collection/mentions" },
           { text: "Research Fields", link: "/data-collection/research-fields" },
           {
-            text: "Normalization Factors",
-            link: "/data-collection/normalization-factors",
+            text: "Auto-Generated Profiles",
+            link: "/data-collection/auto-profiles",
           },
-          { text: "D-index Calculation", link: "/data-collection/d-index" },
-          { text: "S-index Calculation", link: "/data-collection/s-index" },
         ],
-      },
-      {
-        text: "Integrations",
-        link: "/integrations",
-        items: [],
       },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/data-S-index" }],

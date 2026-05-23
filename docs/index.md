@@ -4,27 +4,21 @@ layout: home
 hero:
   name: "Scholar Data"
   text: "Give your datasets the credit they deserve."
-  tagline: Documentation for the Scholar Data platform - track, measure, and showcase the impact of your shared research data.
+  tagline: Documentation for the Scholar Data platform - track, measure, and showcase the impact of your datasets.
   actions:
     - theme: brand
-      text: Create your profile and track your S-index
-      link: https://scholardata.io
-    - theme: alt
-      text: Learn more about our approach
+      text: View docs
       link: /about
+    - theme: alt
+      text: Go to Scholar Data
+      link: https://scholardata.io
 
 features:
   - icon: 📊
     title: Track Your S-index
-    details: Create a profile, claim your datasets, and monitor your data sharing impact with the S-index — a researcher-level metric built on FAIRness, citations, and mentions.
+    details: Create a profile, claim your datasets, and monitor your data sharing impact with the S-index, a researcher-level metric built on FAIRness, citations, and mentions.
     link: /for-researchers
     linkText: For researchers
-
-  - icon: 🔍
-    title: Browse 49M+ Datasets
-    details: Explore impact pages for millions of datasets, search 1M+ author profiles, or evaluate any dataset by DOI in real time.
-    link: /browse-explore
-    linkText: Start exploring
 
   - icon: 📖
     title: Understand the Methodology
@@ -34,13 +28,13 @@ features:
 
   - icon: 🗂️
     title: Data Collection
-    details: See exactly where the data on Scholar Data comes from — datasets, citations, mentions, FAIR scores, and how they were processed at scale.
+    details: See exactly where the data on Scholar Data (datasets, citations, mentions, FAIR scores, etc.) come from and how they are processed at scale.
     link: /data-collection/datasets
     linkText: Data collection methods
 
   - icon: 🔌
     title: Integrate with Your Repository
-    details: Embed a live metrics widget or query the API to display D-index scores and FAIR scores directly in your platform or README.
-    link: /integrations
+    details: Embed a live metrics widget or query the API to display D-index scores, FAIR scores, citations, and mentions of your datasets directly in your platform.
+    link: /for-repositories
     linkText: Integration guide
 ---
