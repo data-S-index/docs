@@ -112,6 +112,7 @@ export default defineConfig({
       {
         text: "Data Collection",
         items: [
+          { text: "Overview", link: "/data-collection/overview" },
           { text: "Datasets", link: "/data-collection/datasets" },
           { text: "FAIR Scores", link: "/data-collection/fair-scores" },
           { text: "Citations", link: "/data-collection/citations" },
