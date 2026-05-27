@@ -29,6 +29,34 @@ Once your profile is set up, you can add datasets to it by clicking **Add a data
 
 At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). Scholar Data will automatically suggest datasets based on your name and identifier that you can rapidly add to your profile. You can also use the search bar to find more datasets and add them to your profile.
 
+## How Search Works
+
+Both the **Browse Profiles** page (`/search/au`) and the **Add Datasets** modal on your profile use [Meilisearch](https://www.meilisearch.com/) as the search engine.
+
+By default, search tries to match **all** the words in your query first. If that returns too few results, it broadens the search by relaxing the last word.
+
+For example, a search for `climate ocean data` will first look for results matching all three words, then may also show results matching `climate ocean` if needed.
+
+### Browse Profiles (`/search/au`)
+
+When you search for a researcher, Scholar Data looks across both registered user profiles and auto-generated profiles.
+
+You can search by name, ORCID, or affiliation. For example, searching `Maria Santos` or an ORCID can help you quickly find the right profile.
+
+If you uncheck **Include auto-generated profiles**, you will only see registered users.
+
+### Add Datasets (user profile page)
+
+When you add datasets to your profile, search looks across dataset titles, authors, DOIs, and keywords.
+
+You can search by dataset title or paste a DOI directly. If you are looking for a dataset by a specific researcher, try their name together with a keyword.
+
+The index currently includes datasets with DOIs registered before September 2025, so some newer datasets may not appear yet.
+
+### Typo Tolerance
+
+Search is typo-tolerant, so small spelling differences in names or titles can still return relevant results.
+
 ## Understanding Your S-index
 
 Once you add datasets, you will see your **S-index** (Sharing Index) on your profile page. It is your top-level data sharing impact score. It works similarly to the h-index for publications: it reflects how broadly and consistently your datasets are made FAIR, cited, and mentioned.
