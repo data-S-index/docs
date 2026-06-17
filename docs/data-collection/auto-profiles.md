@@ -13,9 +13,6 @@ Authors from datasets are identified and grouped across datasets using two strat
 - **Persistent identifier (e.g. ORCID)**: used where available for unambiguous matching
 - **Name and affiliation**: used for authors without a persistent identifier
 
-Authors listed as organizations are excluded. Each profile is assigned a primary research field based on the field of the majority
-of its datasets.
-
 ## S-index Calculation
 
 Each auto-generated profile's S-index is calculated as the sum of the D-index scores

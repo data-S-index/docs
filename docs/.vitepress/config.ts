@@ -86,8 +86,11 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about" },
-      { text: "For Researchers", link: "/for-researchers" },
-      { text: "Browse and Explore", link: "/browse-explore" },
+      { text: "For Researchers", link: "/using-scholar-data/for-researchers" },
+      {
+        text: "Browse and Explore",
+        link: "/using-scholar-data/browse-explore",
+      },
       { text: "Concepts", link: "/concepts" },
       { text: "Data Collection", link: "/data-collection/datasets" },
     ],
@@ -95,19 +98,29 @@ export default defineConfig({
     sidebar: [
       { text: "About", link: "/about", items: [] },
       {
-        text: "For Researchers",
-        link: "/for-researchers",
-        items: [],
+        text: "Using Scholar Data",
+        items: [
+          {
+            text: "For Researchers",
+            link: "using-scholar-data/for-researchers",
+          },
+          {
+            text: "For Data Repositories",
+            link: "using-scholar-data/for-repositories",
+          },
+          {
+            text: "Browse and Explore",
+            link: "using-scholar-data/browse-explore",
+          },
+          {
+            text: "Search Feature",
+            link: "using-scholar-data/search-feature",
+          },
+        ],
       },
-      {
-        text: "For Data Repositories",
-        link: "/for-repositories",
-        items: [],
-      },
-      { text: "Browse and Explore", link: "/browse-explore", items: [] },
       {
         text: "Concepts",
-        link: "/concepts",
+        link: "concepts",
         items: [],
       },
       {

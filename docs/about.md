@@ -18,9 +18,9 @@ The S-index is to data sharing what the h-index is to publications. It quantifie
 
 ## What's on the Platform?
 
-The main purpose of Scholar Data is to allow researchers to track and showcase their data sharing impact. Create a profile, claim your datasets, and track your S-index and dataset metrics over time today! We refer to the [For Researchers](/for-researchers) section for more details.
+The main purpose of Scholar Data is to allow researchers to track and showcase their data sharing impact. Create a profile, claim your datasets, and track your S-index and dataset metrics over time today! We refer to the [For Researchers](/using-scholar-data/for-researchers) section for more details.
 
-Scholar Data has many more features that could be useful to researchers, funders, data repository managers, and more. We refer to the [Browse and Explore](/browse-explore) and [For Repositories](/for-repositories) sections for more details.
+Scholar Data has many more features that could be useful to researchers, funders, data repository managers, and more. We refer to the [For Repositories](using-scholar-data/for-repositories) and [Browse and Explore](using-scholar-data/browse-explore) sections for more details.
 
 ## Privacy & Transparency
 
