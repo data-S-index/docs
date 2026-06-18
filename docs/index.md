@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Scholar Data"
-  text: "Give your datasets the credit they deserve."
+  text: "Share data. Get credit."
   tagline: Documentation for the Scholar Data platform - track, measure, and showcase the impact of your datasets.
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ features:
   - icon: 📊
     title: Track Your S-index
     details: Create a profile, claim your datasets, and monitor your data sharing impact with the S-index, a researcher-level metric built on FAIRness, citations, and mentions.
-    link: /for-researchers
+    link: using-scholar-data/for-researchers
     linkText: For researchers
 
   - icon: 📖
@@ -35,6 +35,6 @@ features:
   - icon: 🔌
     title: Integrate with Your Repository
     details: Embed a live metrics widget or query the API to display D-index scores, FAIR scores, citations, and mentions of your datasets directly in your platform.
-    link: /for-repositories
+    link: using-scholar-data/for-repositories
     linkText: Integration guide
 ---

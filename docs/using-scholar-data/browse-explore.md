@@ -6,13 +6,17 @@ You don't need an account to explore Scholar Data. You can search user profiles,
 
 The [Browse Profiles](https://scholardata.io/search/au) page lets you search across actual user profiles as well as researcher profiles that were auto-generated from the datasets indexed in the Scholar Data database. More details about these auto-generated profiles (indicated by an "Automated Author Profile" badge in the top left corner of the profile pages) are provided in the [Data Collection](/data-collection/auto-profiles) section.
 
+When you search for a researcher, Scholar Data looks across both registered user profiles and auto-generated profiles. You can search by name, ORCID, or affiliation. For example, searching `Maria Santos` or an ORCID can help you quickly find the right profile. See [this page](search-feature) for more details about the search feature. If you uncheck **Include auto-generated profiles**, you will only see registered users.
+
 Each profile shows the researcher's S-index, other impact metrics, and a list of their datasets.
 
 Browsing profiles is useful for discovering active data sharers in your field, benchmarking your own S-index against peers, or giving institutions and funders a way to assess a researcher's data sharing track record.
 
 ## Browsing Datasets
 
-The [Browse Datasets](https://scholardata.io/search/datasets) page lets you search across the datasets currently included in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section). Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
+The [Browse Datasets](https://scholardata.io/search/datasets) page lets you search across the datasets currently included in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section). See [this page](search-feature) for more details about the search feature.
+
+Each dataset has its own impact page showing its D-index, FAIR score, citation count, and alternative mentions.
 
 This is useful for exploring how datasets in a particular field are performing, checking the impact of one of your datasets without logging in, or simply getting a feel for how D-index scores vary across different types of datasets.
 

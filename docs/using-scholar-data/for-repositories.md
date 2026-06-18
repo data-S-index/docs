@@ -2,7 +2,7 @@
 
 Scholar Data provides two ways to display dataset impact metrics like D-index, FAIR score, citations, and mentions, directly in your own platform, without sending users to Scholar Data to look them up.
 
-**→ Ready to integrate? Head straight to the [integrations page on Scholar Data](https://scholardata.io/integrations) for live previews, code snippets, and a DOI tester.**
+**→ Ready to integrate? Head straight to the [integrations page on Scholar Data](https://scholardata.io/integrations) for live previews and code snippets.**
 
 ## Who Is This For?
 

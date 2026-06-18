@@ -64,4 +64,4 @@ To make the metadata manageable in subsequent pipeline steps, a reduced version 
 
 ### Publication Year Correction
 
-A small number of DataCite datasets contained likely erroneous publication years (for example, dates in the 1400s or future dates beyond January 2026), most likely due to metadata entry errors at the time of deposit. For any dataset with a publication year outside the range 1950–January 2026, the DOI creation date was used as a fallback publication date.
+A small number of DataCite datasets contained likely erroneous publication years (for example, dates in the 1400s or future dates beyond January 2026), most likely due to metadata entry errors at the time of deposit. For any dataset with a publication year outside the range 1950–May 2026, the DOI creation date was used as a fallback publication date.
