@@ -35,7 +35,7 @@ Once you add datasets, you will see your **S-index** (Sharing Index) on your pro
 
 The S-index is computed across all the datasets on your profile, with field normalization applied so that scores remain comparable across disciplines. As you add more datasets, and as existing datasets accumulate more citations and mentions, your S-index will update to reflect your growing impact.
 
-For more information about the S-index, we refer to the [Concepts](/concepts) section.
+For more information about the S-index, we refer to the [Concepts](/s-index-guide/concepts) section.
 
 ## Sharing and Showcasing Your Profile
 

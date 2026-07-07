@@ -17,7 +17,7 @@ Authors from datasets are identified and grouped across datasets using two strat
 
 Each auto-generated profile's S-index is calculated as the sum of the D-index scores
 of all datasets attributed to that researcher, following the
-[S-index formula](../concepts).
+[S-index formula](../s-index-guide/concepts.md).
 
 ## Limitations
 

@@ -1,6 +1,6 @@
 # Improving Your S-index
 
-This page covers practical ways to grow your S-index, organized around the three components it's built from: FAIR practices, citations, and mentions. Note that they are indicative to encourage good data management and sharing practices and not ways to inflate your S-index since gaming can be easily detected as mentioned [here](/understanding)).
+This page covers practical ways to grow your S-index, organized around the three components it's built from: FAIR practices, citations, and mentions. Note that they are indicative to encourage good data management and sharing practices and not ways to inflate your S-index since gaming can be easily detected as mentioned [here](./understanding).
 
 
 ## Choose Repositories That Expose Rich Metadata
@@ -23,7 +23,7 @@ Datasets that are well organized, shared with standard file formats, and properl
 
 ## Share More Datasets
 
-Sharing more datasets adds more Dataset Indices to your total S-index, but only if each one carries real impact. Sharing many low-impact datasets doesn't meaningfully move the needle, and is visible as such (see [Design Rationale](/design-rationale)). Treat this as a natural result of consistently sharing well-prepared, reusable data, not a shortcut on its own.
+Sharing more datasets adds more Dataset Indices to your total S-index, but only if each one carries real impact. Sharing many low-impact datasets doesn't meaningfully move the needle, and is visible as such (see [Design Rationale](./design)). Treat this as a natural result of consistently sharing well-prepared, reusable data, not a shortcut on its own.
 
 ## Share Early
 Citations and mentions are time-weighted, so the sooner a dataset is shared, the sooner it starts accumulating reuse, and the more that reuse counts toward your S-index over time. Waiting to share a dataset until a related manuscript is published, for example, delays this clock unnecessarily.

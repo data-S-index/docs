@@ -1,6 +1,6 @@
 # Design Rationale
 
-This page explains why the S-index is built the way it's described in [Concepts](/concepts), and which alternatives we considered and rejected along the way.
+This page explains why the S-index is built the way it's described in [Concepts](./concepts), and which alternatives we considered and rejected along the way.
 
 ## Why Citation
 
@@ -42,4 +42,4 @@ We chose not to include several features common in other citation-based metrics,
 
 ## Guarding Against Gaming
 
-As with the h-index, some gaming is theoretically possible, for example, splitting one dataset into many small ones, or building up self-citations and mentions artificially. We don't try to prevent every possible edge case in the formula itself. Instead, Scholar Data is built to function as a transparency and integrity tool: the S-index is fully reproducible from open data stored in the database of Scholar Data, so every citation, mention, and score behind a researcher's index can be seen and traced back to its source. Simple derived indicators, like a researcher's Average Dataset Index (S-index devided by number of datasets, shown on Scholar Data profiles), also make volume-based gaming easy to spot.
+As with the h-index, some gaming is theoretically possible, for example, splitting one dataset into many small ones, or building up self-citations and mentions artificially. We don't try to prevent every possible edge case in the formula itself. Instead, Scholar Data is built to function as a transparency and integrity tool: the S-index is fully reproducible from open data stored in the database of Scholar Data, so every citation, mention, and score behind a researcher's index can be seen and traced back to its source. Simple derived indicators, like a researcher's Average Dataset Index (S-index devided by number of datasets shown on Scholar Data, also make volume-based gaming easy to spot.
