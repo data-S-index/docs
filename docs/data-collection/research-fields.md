@@ -1,7 +1,7 @@
 # Research Fields
 
 Each dataset in Scholar Data is assigned a research field, which is used to normalize
-D-index and S-index scores so they remain comparable across disciplines. The idea is that a dataset in a field with low data sharing rates and inconsistent citation practices should not be penalized relative to one in a field where sharing and citation is common practice. This page describes how a research fields are assigned.
+D-index and S-index scores so they remain comparable across disciplines. The idea is that a dataset in a field with low data sharing rates and inconsistent citation practices should not be penalized relative to one in a field where sharing and citation is common practice. This page describes how research fields are assigned.
 
 ## Classification System
 

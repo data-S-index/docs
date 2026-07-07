@@ -13,7 +13,7 @@ from these external sources using documented, reproducible methods.
 
 ## Current Data
 
-The data currently shown on Scholar Data covers represents a
+The data currently shown on Scholar Data represents a
 point-in-time calculation rather than a live feed. Scores reflect the citations,
 mentions, and FAIR assessments available at the time of processing (see individual
 pages in this section for specific dates).

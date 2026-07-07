@@ -1,6 +1,6 @@
 # FAIR Scores
 
-This page explains how FAIR scores are calculated for the the datasets in the Scholar Data database.
+This page explains how FAIR scores are calculated for the datasets in the Scholar Data database.
 
 ## How FAIR Scores Are Calculated
 
