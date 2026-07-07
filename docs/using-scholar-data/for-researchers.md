@@ -19,7 +19,7 @@ Your datasets are driving discovery, but without a way to measure and showcase t
 
 To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
 
-Once registered, you will have a public researcher profile that displays your datasets and impact metrics.
+Once registered, you will have a public researcher profile that displays your datasets and impact metrics. This profile will have a dedicated URL that you can include on your CV, website, and elsewhere. See, for instance, how this user integrated their Scholar Data profile link on their [university website profile page](https://profiles.auckland.ac.nz/d-nickerson), along with links to their Google Scholar, LinkedIn, and GitHub pages.
 
 To update your profile, log in and visit the **My Profile** page. From there you can edit your name, affiliation, and other details. You can also update your password and delete your profile from there.
 
