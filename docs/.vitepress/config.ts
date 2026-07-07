@@ -91,7 +91,7 @@ export default defineConfig({
         text: "Browse and Explore",
         link: "/using-scholar-data/browse-explore",
       },
-      { text: "Concepts", link: "/concepts" },
+      { text: "Concepts", link: "s-index-guide/concepts" },
       { text: "Data Collection", link: "/data-collection/datasets" },
     ],
 
@@ -119,9 +119,25 @@ export default defineConfig({
         ],
       },
       {
-        text: "Concepts",
-        link: "concepts",
-        items: [],
+        text: "S-index Guide",
+        items: [
+          {
+            text: "Concepts",
+            link: "s-index-guide/concepts",
+          },
+          {
+            text: "Design Rationale",
+            link: "s-index-guide/design",
+          },
+          {
+            text: "Understanding Your S-index",
+            link: "s-index-guide/understanding",
+          },
+          {
+            text: "Improving",
+            link: "s-index-guide/improving",
+          },
+        ],
       },
       {
         text: "Data Collection",

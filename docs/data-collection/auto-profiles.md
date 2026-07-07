@@ -17,10 +17,10 @@ Authors from datasets are identified and grouped across datasets using two strat
 
 Each auto-generated profile's S-index is calculated as the sum of the D-index scores
 of all datasets attributed to that researcher, following the
-[S-index formula](../concepts).
+[S-index formula](../s-index-guide/concepts.md).
 
 ## Limitations
 
-Because profiles are assembled automatically from metadata, they carry inherent limitations. For instances name and affiliation matching can conflate different researchers with similar names, or split one researcher's work across multiple profiles.
+Because profiles are assembled automatically from metadata, they carry inherent limitations. For instance, name and affiliation matching can conflate different researchers with similar names, or split one researcher's work across multiple profiles.
 
 Researchers who create a profile and manually claim their datasets will get a more accurate and up-to-date S-index that reflects their actual data sharing impact.

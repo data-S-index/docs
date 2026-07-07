@@ -14,7 +14,7 @@ The S-index and Scholar Data efforts are conducted by a multidisciplinary team o
 
 ## What is the S-index?
 
-The S-index is to data sharing what the h-index is to publications. It quantifies a researcher's overall data sharing footprint in a single, interpretable score. For more details, we refer to the [Concepts](/concepts) section.
+The S-index is to data sharing what the h-index is to publications. It quantifies a researcher's overall data sharing footprint in a single, interpretable score. For more details, we refer to the [Concepts](s-index-guide/concepts) section.
 
 ## What's on the Platform?
 

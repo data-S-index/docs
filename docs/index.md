@@ -23,7 +23,7 @@ features:
   - icon: 📖
     title: Understand the Methodology
     details: Learn how the S-index and D-index are calculated, what signals they combine, and how scores can be improved.
-    link: /concepts
+    link: /s-index-guide/concepts
     linkText: Concepts & methodology
 
   - icon: 🗂️

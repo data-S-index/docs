@@ -12,6 +12,10 @@ Integrations are aimed at:
 - **Lab and research group websites** that want to showcase the impact of their shared data
 - **Dashboards and reporting tools** that aggregate research output metrics
 
+## Example
+
+PhysioNet, a major NIH-supported repository, has already integrated using the Scholar Data API and now showcases our metrics on their dataset metrics page. See [here](https://physionet.org/content/mimiciv/metrics/2.2) for instance how they include the Scholar Data metrics for their MIMIC-IV dataset.
+
 ## Available Methods
 
 ### Embed Widget

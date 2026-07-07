@@ -1,10 +1,10 @@
 # Concepts
 
-This page explains how Scholar Data calculates the S-index and Dataset Index (D-index).
+This page explains the S-index and D-index concepts we have introduced to evaluate the impact of researchers and their datasets.
 
-## Proposed S-index
+## S-index
 
-We introduce a framework in which a dataset $i$ is assigned a **Dataset Index** $D_i$ that combines FAIRness, scholarly citations, and alternative mentions. A researcher's **S-index** is then defined as the sum of the Dataset Indices of their $N$ datasets:
+We introduce a framework in which a dataset $i$ is assigned a **D-Index** (Dataset Index) $D_i$ that combines FAIRness, scholarly citations, and alternative mentions. A researcher's **S-index** (Sharing Index) is then defined as the sum of the Dataset Indices of their $N$ datasets:
 
 $$
 D_i=\frac{1}{3}\left(\frac{F_i}{F_T}+\frac{C_{i}^w}{C_{T}^w}+\frac{M_{i}^w}{M_{T}^w}\right),

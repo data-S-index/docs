@@ -1,6 +1,6 @@
 # Mentions
 
-This page describes how alternative mentions of datasets are identified for dataset in the Scholar Data database. Unlike formal citations, alternative mentions capture dataset reuse in contexts where standard citation practices are less common or not established, such as code repositories, machine learning models, and patents.
+This page describes how alternative mentions of datasets are identified for datasets in the Scholar Data database. Unlike formal citations, alternative mentions capture dataset reuse in contexts where standard citation practices are less common or not established, such as code repositories, machine learning models, and patents.
 
 ## Sources
 
