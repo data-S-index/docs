@@ -26,7 +26,7 @@ dataset identifier mentions, covering patents from January 2002 onward.
 
 ## Coverage
 
-Scholar Data currently tracks over 90,000 mentions to datasets indexed in the Scholar Data databases.
+Scholar Data currently tracks over 90,000 mentions to datasets indexed in the Scholar Data database.
 
 | Source            | Last Updated/Version used | Mentions   |
 | ----------------- | ------------------------- | ---------- |

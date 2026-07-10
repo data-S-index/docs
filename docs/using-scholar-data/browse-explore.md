@@ -28,12 +28,12 @@ This is the fastest way to check the metrics for a specific dataset that hasn't 
 
 The steps for computing the D-index live differ slightly from our auto-processed datasets. When you provide a DOI or URL here is what Scholar Data does in the backend:
 
-1. Get metadata (DataCite API if DOI, web scrapping if URL)
-2. Calculate FAIR score (using self deployed instance of F-UJI)
-3. Assign domain (using Open Alex or custom AI-model) and identify related weighting factors
-4. Find citations (using the Make Data Count citation corpus only if URL, additionally using DataCite and OpenAlex APIs if DOI)
-5. Find mentions in code using the GitHub API and a preprocessed list of DOI mentions in HuggingFace model cards
-6. Find mentions in patent if DOI from a preprocessed list of DOI mentions in patents
+1. Get metadata (DataCite API if DOI, web scraping if URL)
+2. Calculate FAIR score (using a self-deployed instance of F-UJI)
+3. Assign domain (using OpenAlex or a custom AI model) and identify related weighting factors
+4. Find citations (using the Make Data Count citation corpus only if URL, and additionally using DataCite and OpenAlex APIs if DOI)
+5. Find mentions in code using the GitHub API and a preprocessed list of DOI mentions in Hugging Face model cards
+6. Find mentions in patents if DOI from a preprocessed list of DOI mentions in patents
 7. Compute D-index
 8. Generate dataset impact page
 

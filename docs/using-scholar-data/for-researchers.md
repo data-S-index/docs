@@ -17,7 +17,7 @@ Your datasets are driving discovery, but without a way to measure and showcase t
 
 ## Creating and Managing Your Profile
 
-To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
+To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profile automatically.
 
 Once registered, you will have a public researcher profile that displays your datasets and impact metrics. This profile will have a dedicated URL that you can include on your CV, website, and elsewhere.
 
@@ -27,7 +27,7 @@ To update your profile, log in and visit the **My Profile** page. From there you
 
 Once your profile is set up, you can add datasets to it by clicking **Add a dataset** from your public page (this button will only be visible if you are logged in).
 
-At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). You can use the search bar to find more datasets and add them to your profile. Learn more about using the search feature [here](search-feature).
+At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). You can use the search bar to find more datasets and add them to your profile. Learn more in the [Search Feature](search-feature) page.
 
 ## Understanding Your S-index
 

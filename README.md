@@ -11,7 +11,7 @@ Scholar Data is a platform for measuring, improving, and showcasing the impact o
 **Prerequisites:** Mise to handle the node and pnpm installation.
 
 ```bash
-mise trust # only needed the first time to trust this repository
+mise trust # only needed the first time for this repository
 mise install
 
 pnpm install

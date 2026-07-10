@@ -21,7 +21,7 @@ For datasets registered in DataCite, citation information is included directly i
 ## Coverage
 
 Citations are deduplicated across all three sources so the same reference is never
-counted twice. Scholar Data currently tracks over 7.6 million unique citations to datasets indexed in the Scholar Data databases.
+counted twice. Scholar Data currently tracks over 7.6 million unique citations to datasets indexed in the Scholar Data database.
 
 | Source                               | Last Updated/Version used | Unique Citations to Scholar Data indexed datasets |
 | ------------------------------------ | ------------------------- | ------------------------------------------------- |

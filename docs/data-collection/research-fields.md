@@ -16,14 +16,14 @@ best captures the variation in data sharing practices across research communitie
 Field assignments come from two sources:
 
 - **OpenAlex**: where a dataset is indexed in OpenAlex, its subfield
-  classification are used directly if it's confidence score is above 0.5.
+  classification is used directly if its confidence score is above 0.5.
 - **Custom classifier**: for datasets not indexed in OpenAlex, a custom
   classifier maps dataset metadata (title, description, and keywords) to the OpenAlex
   taxonomy. More details are available in the
   [GitHub repository of the classifier code](https://github.com/data-S-index/dataset-to-field).
-- For datasets in OpenAlex with a confience score below 0.5, we use the subfields assigned with the greater confidence score between OpenAlex and the custom classifier.
+- For datasets in OpenAlex with a confidence score below 0.5, we use the subfield assignment with the higher confidence score between OpenAlex and the custom classifier.
 
-Note: A small number of datasets with non-Latin script metadata that are not in OpenAlex are not classified because our custom model is currently not trained handle such datasets. This is something we will look to improve in the future.
+Note: A small number of datasets with non-Latin script metadata that are not in OpenAlex are not classified because our custom model is currently not trained to handle such datasets. This is something we will look to improve in the future.
 
 ## Incorrect Field Assignment?
 

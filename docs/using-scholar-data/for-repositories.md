@@ -14,7 +14,7 @@ Integrations are aimed at:
 
 ## Example
 
-PhysioNet, a major NIH-supported repository, has already integrated using the Scholar Data API and now showcases our metrics on their dataset metrics page. See [here](https://physionet.org/content/mimiciv/metrics/2.2) for instance how they include the Scholar Data metrics for their MIMIC-IV dataset.
+PhysioNet, a major NIH-supported repository, has already integrated using the Scholar Data API and now showcases our metrics on their dataset metrics page. See the [MIMIC-IV metrics page on PhysioNet](https://physionet.org/content/mimiciv/metrics/2.2) for an example of how they include Scholar Data metrics.
 
 ## Available Methods
 

@@ -9,8 +9,8 @@ to do if your dataset isn't showing up.
 ### DataCite Datasets
 
 [DataCite](https://datacite.org/) is a global infrastructure that enables repositories
-and institutions to register DOIs for datasets and other research outputs. Because DOI
-has become the primary persistent identifier for datasets, DataCite holds metadata for
+and institutions to register DOIs for datasets and other research outputs. Because DOIs
+have become the primary persistent identifier for datasets, DataCite holds metadata for
 millions of datasets from thousands of repositories worldwide.
 
 ### Electron Microscopy Data Bank (EMDB) Datasets
@@ -27,7 +27,7 @@ repository for three-dimensional electron microscopy density maps. EMDB datasets
 | EMDB      | 51,645         | 1            | September 30, 2025 |
 | **Total** | **49,061,167** | **1,485**    |                    |
 
-\*There are 17,000+ unique publisher names across the DataCite datasets, but we are including here the more conservative number of publisher ids.
+\*There are 17,000+ unique publisher names across the DataCite datasets, but we are including here the more conservative number of publisher IDs.
 
 The database spans a large number of research fields, all repository types (generalist,
 domain-specific, and institutional), publication years from 1950 to 2026, and a wide
@@ -48,7 +48,7 @@ page, but cannot add it to your profile yet (user-suggested dataset inclusion is
 
 ### Metadata Processing
 
-To make the metadata manageable in subsequent pipeline steps, a reduced version was conserved for each dataset retaining only the fields relevant to S-index calculation:
+To make the metadata manageable in subsequent pipeline steps, a reduced version was kept for each dataset, retaining only the fields relevant to S-index calculation:
 
 - Identifier
 - URL

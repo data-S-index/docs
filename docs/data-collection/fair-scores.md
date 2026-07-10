@@ -13,11 +13,11 @@ dataset satisfies.
 
 Scores are computed at the metadata level with F-UJI. We opted for this approach since assessing FAIRness from the actual data
 files would be more granular but would require downloading the full content of every dataset, which is not
-realistically feasible at scale with millions of datasets. Moreover, what consitute being FAIR at a data file level is currently not well defined and changes from field-to-field.
+realistically feasible at scale with millions of datasets. Moreover, what constitutes being FAIR at a data file level is currently not well defined and changes from field to field.
 
 ## Coverage
 
-FAIR scores are available for all datasets in the Scholar Data database. They are computed close to the time where datasets are indexed in the Scholar Data database. The majority were computed directly using F-UJI, with a smaller portion extrapolated for repositories where FAIR scores are uniform across datasets (such as EMDB, where all datasets expose the same metadata fields).
+FAIR scores are available for all datasets in the Scholar Data database. They are computed close to the time when datasets are indexed in the Scholar Data database. The majority were computed directly using F-UJI, with a smaller portion extrapolated for repositories where FAIR scores are uniform across datasets (such as EMDB, where all datasets expose the same metadata fields).
 
 For more details on how F-UJI was adapted and run at scale, see the
 [Scholar Data F-UJI fork GitHub repository](https://github.com/data-S-index/fuji).

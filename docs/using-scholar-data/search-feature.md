@@ -2,13 +2,13 @@
 
 Many pages on Scholar Data provide a search feature like the **Browse Profiles** page and the **Add Datasets** modal on your profile. They all use [Meilisearch](https://www.meilisearch.com/) as the search engine.
 
-## How search works
+## How Search Works
 
 Search tries to match **all** words in your query first. If too few results are found, it broadens by relaxing the last word. For instance a search for `climate ocean data` may also return results matching `climate ocean` only.
 
 Search is typo-tolerant, so small spelling differences in names or titles can still return relevant results.
 
-## Search tips
+## Search Tips
 
 - Search by **title, researcher name, or keywords** for general search and exploratory queries
 - Search with a **dataset identifier** like DOI in quotes for an exact match with a dataset: `"10.60775/fairhub.2"`

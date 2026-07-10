@@ -1,6 +1,6 @@
 # Improving Your S-index
 
-This page covers practical ways to grow your S-index. Note that they are indicative to encourage good data management and sharing practices and not ways to inflate your S-index since gaming can be easily detected as mentioned [here](./understanding).
+This page covers practical ways to grow your S-index. Note that these are intended to encourage good data management and sharing practices, not ways to inflate your S-index, since gaming can be easily detected as explained in [Understanding Your S-index](./understanding).
 
 ## Choose Repositories That Expose Rich Metadata
 
@@ -8,7 +8,7 @@ The FAIR score is calculated using [F-UJI](../data-collection/fair-scores.md), w
 
 To improve your S-index, share your datasets on repositories that expose metadata properly, and fill in as much metadata as the repository allows when depositing your data.
 
-To check how FAIR-enabling a repository, you can look up the FAIR scores of some of its datasets on Scholar Data or select a few datasets from that repository and run them through the [F-UJI web tool](https://www.f-uji.net/?action=test) yourself.
+To check how FAIR-enabling a repository is, you can look up the FAIR scores of some of its datasets on Scholar Data or select a few datasets from that repository and run them through the [F-UJI web tool](https://www.f-uji.net/?action=test) yourself.
 
 ## Prefer a DOI-Issuing Repository
 
