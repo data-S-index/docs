@@ -16,7 +16,7 @@ pipelines, models, and similar software outputs.
 
 The [Hugging Face Hub](https://huggingface.co/) is the central platform for sharing
 pre-trained machine learning models. Scholar Data scans model cards for dataset
-identifier mentions, capturing reuse in open-source ML workflows.
+identifier mentions, capturing reuse in AI and ML workflows.
 
 ### USPTO Patents
 
@@ -34,14 +34,6 @@ Scholar Data currently tracks over 90,000 mentions to datasets indexed in the Sc
 | Hugging Face      | January 2026              | 5,243      |
 | USPTO Patents     | January 2026              | 1,519      |
 | **Total**         |                           | **91,891** |
-
-## A Note on Mention Counting
-
-Mentions are identified by scanning source content for dataset identifiers. All
-mentions are counted broadly. Scholar Data does not apply additional filtering to
-verify whether a dataset was actively used in the associated work, as opposed to
-simply referenced. Given the overall scarcity of dataset mentions, counting all
-signals is considered the right approach at the moment to incentivize and reward data sharing.
 
 ## Why Might a Mention Be Missing?
 

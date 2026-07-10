@@ -6,31 +6,28 @@ to do if your dataset isn't showing up.
 
 ## What's in the Database
 
-### DataCite
+### DataCite Datasets
 
 [DataCite](https://datacite.org/) is a global infrastructure that enables repositories
 and institutions to register DOIs for datasets and other research outputs. Because DOI
 has become the primary persistent identifier for datasets, DataCite holds metadata for
 millions of datasets from thousands of repositories worldwide.
 
-Scholar Data includes metadata for all DataCite-registered datasets as of
-**September 30, 2025**.
-
-### Electron Microscopy Data Bank (EMDB)
+### Electron Microscopy Data Bank (EMDB) Datasets
 
 Scholar Data also includes datasets from the
 [Electron Microscopy Data Bank (EMDB)](https://www.ebi.ac.uk/emdb/), an international
 repository for three-dimensional electron microscopy density maps. EMDB datasets are not assigned DOIs. Each is identified by an accession number in the format `EMD-XXXXX`.
 
-All EMDB datasets published as of **September 30, 2025** are included.
-
 ## Coverage Summary
 
 | Source    | Datasets       | Repositories | Last Updated       |
 | --------- | -------------- | ------------ | ------------------ |
-| DataCite  | 49,009,522     | 17,306       | September 30, 2025 |
+| DataCite  | 49,009,522     | 1,484\*      | September 30, 2025 |
 | EMDB      | 51,645         | 1            | September 30, 2025 |
-| **Total** | **49,061,167** | **17,307**   |                    |
+| **Total** | **49,061,167** | **1,485**    |                    |
+
+\*There are 17,000+ unique publisher names across the DataCite datasets, but we are including here the more conservative number of publisher ids.
 
 The database spans a large number of research fields, all repository types (generalist,
 domain-specific, and institutional), publication years from 1950 to 2026, and a wide
@@ -41,11 +38,11 @@ variety of data types, licenses, and access levels.
 If your dataset doesn't appear when you search, it may not yet be in the Scholar Data
 database. This can happen if:
 
-- It was deposited after September 30, 2025
+- It was deposited after our last update
 - It is not registered with DataCite and is not in EMDB
 
 In these cases, you can still evaluate the impact of your dataset from the [Evaluate Datasets](https://scholardata.io/evaluate)
-page, but cannot add it to your profile yet (this is something we are working on).
+page, but cannot add it to your profile yet (user-suggested dataset inclusion is something we are working on).
 
 ## Processing Notes
 
@@ -64,4 +61,4 @@ To make the metadata manageable in subsequent pipeline steps, a reduced version 
 
 ### Publication Year Correction
 
-A small number of DataCite datasets contained likely erroneous publication years (for example, dates in the 1400s or future dates beyond January 2026), most likely due to metadata entry errors at the time of deposit. For any dataset with a publication year outside the range 1950–May 2026, the DOI creation date was used as a fallback publication date.
+A small number of DataCite datasets contained likely erroneous publication years (for example, dates in the 1400s or future dates), most likely due to metadata entry errors at the time of deposit. For any dataset with a publication year outside the range 1950–[current year at the time of update], the DOI creation date was used as a fallback publication date.

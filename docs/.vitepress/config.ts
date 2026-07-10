@@ -126,6 +126,10 @@ export default defineConfig({
             link: "s-index-guide/concepts",
           },
           {
+            text: "Validation",
+            link: "s-index-guide/validation",
+          },
+          {
             text: "Design Rationale",
             link: "s-index-guide/design",
           },

@@ -4,11 +4,11 @@ This page explains why the S-index is built the way it's described in [Concepts]
 
 ## Why Citation
 
-Citation is the most obvious signal of reuse for any scholarly output. As efforts to improve dataset-citation practices mature across the field, we expect citation to become an increasingly important driver of the S-index over time.
+Citation is the most obvious signal of reuse for any scholarly output. As efforts to improve dataset-citation practices mature, we expect citation to become an increasingly important driver of the S-index over time.
 
 ## Why Mention
 
-Reuse of a dataset doesn't always show up as a citation in a manuscript. Datasets are frequently reused in code, AI models, patents, and policy documents — forms of impact that are just as real but fall outside traditional citation. In our large-scale validation across 49M+ datasets, fewer than 5% had even one citation, while thousands of datasets with zero citations had at least one mention in code, AI models, or patents. Restricting the index to citations alone would make it blind to most real-world reuse today; this is why the S-index tracks alternative mentions alongside citations.
+Reuse of a dataset doesn't always get conveyed as a citation in a manuscript. Datasets are frequently reused in code, AI models, patents, and policy documents. In our large-scale validation, we found thousands of datasets with zero citations but at least one mention. Restricting the index to citations alone would make it blind to many real-world reuse today.
 
 ## Why FAIR
 
@@ -28,7 +28,7 @@ Data-sharing practices vary widely from field to field, and evolve over time wit
 
 ## Why Normalization Uses Medians, Not Means, Over a 3-Year Window
 
-In our large-scale validation, we found that FAIR scores, citations, and mentions are all heavy-tailed: a small number of datasets have very high values, and the rest cluster much lower. Medians resist being skewed by these outliers in a way that means don't. We recalculate normalization factors as a moving median over the past three years, separately for each research field, so the index stays fair across disciplines with very different data-reuse cultures and keeps pace as field-level practices evolve, without reacting to short-term noise.
+In our large-scale validation, we found that FAIR scores, citations, and mentions are all heavy-tailed: a small number of datasets have very high values, and the rest cluster much lower. Medians resist being skewed by these outliers. We calculate normalization factors as a moving median across the three years before a dataset's publication, separately for each research field, so the index stays fair across disciplines with very different data-reuse cultures and keeps pace as field-level practices evolve, without reacting to short-term noise.
 
 ## What We Deliberately Left Out
 
@@ -38,7 +38,7 @@ We chose not to include several features common in other citation-based metrics,
 - **No citations to related manuscripts.** Only citations that point to the dataset directly are counted — not citations to papers that happen to describe it. This is meant to encourage proper data-citation practices rather than reward indirect association.
 - **No exclusion of self-citations or self-mentions.** Excluding them outright would risk disadvantaging researchers in smaller fields, where a higher share of legitimate reuse naturally comes from the same small group of collaborators. They're also currently rare: in our large-scale validation, only about 5% of datasets had any citation or mention at all, self or otherwise.
 - **No verification of actual usage in citations and mentions.** We don't check whether a citation or mention actually reuses the dataset's data, rather than referencing it in passing. Doing this reliably at scale is a hard accuracy problem on its own, and given how rare citations and mentions already are, the added complexity isn't currently justified.
-**No downloads or view counts.** We felt these don't necessarily reflect real reuse properly: a download or view doesn't confirm the data was actually used. Moreover, they lack transparency, since we typically don't know who downloaded or viewed a dataset. That opacity would also make gaming much harder to detect than it is for citations and mentions, which are traceable back to their source.
+  **No downloads or view counts.** We felt these don't necessarily reflect real reuse properly: a download or view doesn't confirm the data was actually used. Moreover, they lack transparency, since we typically don't know who downloaded or viewed a dataset. That opacity would also make gaming much harder to detect than it is for citations and mentions, which are traceable back to their source.
 
 ## Guarding Against Gaming
 

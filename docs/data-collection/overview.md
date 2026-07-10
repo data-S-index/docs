@@ -16,7 +16,7 @@ from these external sources using documented, reproducible methods.
 The data currently shown on Scholar Data represents a
 point-in-time calculation rather than a live feed. Scores reflect the citations,
 mentions, and FAIR assessments available at the time of processing (see individual
-pages in this section for specific dates).
+pages in this section for specific dates). We started with the data from our large scale validation (described [here](../s-index-guide/validation.md)) and are progressively adding more.
 
 ## Long-Term Vision
 
@@ -33,7 +33,7 @@ _Figure 1. Overview of the targeted automated pipelines for collecting dataset-l
   where they come from
 - [**FAIR Scores**](fair-scores): how dataset FAIRness is assessed
 - [**Citations**](citations): how formal citations to datasets are identified
-- [**Mentions**](mentions): how appearances in code repositories, patents, and
+- [**Mentions**](mentions): how meantions in code repositories, patents, and
   other sources are found
 - [**Research Fields**](research-fields): how a research field is assigned to each
   dataset to enable field-specific normalization

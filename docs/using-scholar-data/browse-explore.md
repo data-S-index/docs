@@ -6,7 +6,7 @@ You don't need an account to explore Scholar Data. You can search user profiles,
 
 The [Browse Profiles](https://scholardata.io/search/au) page lets you search across actual user profiles as well as researcher profiles that were auto-generated from the datasets indexed in the Scholar Data database. More details about these auto-generated profiles (indicated by an "Automated Author Profile" badge in the top left corner of the profile pages) are provided in the [Data Collection](/data-collection/auto-profiles) section.
 
-When you search for a researcher, Scholar Data looks across both registered user profiles and auto-generated profiles. You can search by name, ORCID, or affiliation. For example, searching `Maria Santos` or an ORCID can help you quickly find the right profile. See [this page](search-feature) for more details about the search feature. If you uncheck **Include auto-generated profiles**, you will only see registered users.
+When you search for a researcher, Scholar Data looks across both registered user profiles and auto-generated profiles. You can search by name, ORCID, or affiliation. See [this page](search-feature) for more details about the search feature. If you uncheck **Include auto-generated profiles**, you will only see registered users.
 
 Each profile shows the researcher's S-index, other impact metrics, and a list of their datasets.
 
