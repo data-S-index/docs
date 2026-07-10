@@ -21,11 +21,11 @@ repository for three-dimensional electron microscopy density maps. EMDB datasets
 
 ## Coverage Summary
 
-| Source    | Datasets       | Repositories | Last Updated  |
-| --------- | -------------- | ------------ | ------------- |
-| DataCite  | 70,336,850     | 1,594\*      | July 09, 2026 |
-| EMDB      | 53,202         | 1            | July 09, 2026 |
-| **Total** | **70,390,052** | **1,595**    |               |
+| Source    | Datasets       | Repositories | Last Updated    |
+| --------- | -------------- | ------------ | --------------- |
+| DataCite  | 70,336,850     | 1,594\*      | April 30th 2026 |
+| EMDB      | 53,202         | 1            | April 30th 2026 |
+| **Total** | **70,390,052** | **1,595**    |                 |
 
 \*There are 17,000+ unique publisher names across the DataCite datasets, but we are including here the more conservative number of publisher IDs.
 
