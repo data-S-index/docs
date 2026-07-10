@@ -25,10 +25,10 @@ counted twice. Scholar Data currently tracks over 7.6 million unique citations t
 
 | Source                               | Last Updated/Version used | Unique Citations to Scholar Data indexed datasets |
 | ------------------------------------ | ------------------------- | ------------------------------------------------- |
-| Make Data Count Data Citation Corpus | v4.1 (August 2025)        | 1,480,491                                         |
-| OpenAlex                             | April 2026 snapshot       | 2,754,157                                         |
-| DataCite                             | April 30, 2026            | 4,641,366                                         |
-| **Total (deduplicated)**             |                           | **7,669,263**                                     |
+| Make Data Count Data Citation Corpus | v4.1 (August 2025)        | 1,480,548                                         |
+| OpenAlex                             | April 2026 snapshot       | 2,787,149                                         |
+| DataCite                             | April 30, 2026            | 5,576,297                                         |
+| **Total (deduplicated)**             |                           | **8,610,545**                                     |
 
 ## Why Might a Citation Be Missing?
 
