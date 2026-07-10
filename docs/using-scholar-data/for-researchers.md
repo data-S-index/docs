@@ -4,7 +4,7 @@ Scholar Data gives you a dedicated profile to track the impact of your shared da
 
 Anyone can create a profile and track their data sharing impact: researchers, research labs, institutions, consortiums, and more.
 
-**→ Ready to create your profile and brag about your datasets? Head straight to the [Scholar Data](https://scholardata.io).**
+**→ Ready to create your profile and brag about your datasets? Head straight to [Scholar Data](https://scholardata.io).**
 
 ## Why Create a Profile?
 
@@ -12,14 +12,14 @@ Your datasets are driving discovery, but without a way to measure and showcase t
 
 - **Showcase your datasets.** Add all your datasets to your profile and showcase your data sharing effort.
 - **See who is using your data.** Track citations and mentions across publications, code repositories, patents, and policy documents.
-- **Strengthen your CV and grant applications.** Your S-index gives reviewers and institutions a single, interpretable score that reflects your data sharing contributions.
-- **Get credit you didn't know you had.** Many researchers discover their datasets have been cited or reused in ways they were never notified about.
+- **Strengthen your CV and grant applications.** Share your unique Scholar Data profile link to give reviewers and institutions a single, interpretable score that reflects your data sharing contributions.
+- **Find credit you didn't know you had.** Many researchers discover their datasets have been cited or reused in ways they were never notified about.
 
 ## Creating and Managing Your Profile
 
 To get started, [sign up for an account](https://scholardata.io/signup). While optional, we recommend that you provide your ORCID and affiliation so Scholar Data can suggest datasets to add to your profiles automatically.
 
-Once registered, you will have a public researcher profile that displays your datasets and impact metrics. This profile will have a dedicated URL that you can include on your CV, website, and elsewhere. See, for instance, how this user integrated their Scholar Data profile link on their [university website profile page](https://profiles.auckland.ac.nz/d-nickerson), along with links to their Google Scholar, LinkedIn, and GitHub pages.
+Once registered, you will have a public researcher profile that displays your datasets and impact metrics. This profile will have a dedicated URL that you can include on your CV, website, and elsewhere.
 
 To update your profile, log in and visit the **My Profile** page. From there you can edit your name, affiliation, and other details. You can also update your password and delete your profile from there.
 
@@ -27,7 +27,7 @@ To update your profile, log in and visit the **My Profile** page. From there you
 
 Once your profile is set up, you can add datasets to it by clicking **Add a dataset** from your public page (this button will only be visible if you are logged in).
 
-At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). Scholar Data will automatically suggest datasets based on your name and identifier that you can rapidly add to your profile. You can also use the search bar to find more datasets and add them to your profile. Learn more about using the search feature [here](search-feature).
+At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). You can use the search bar to find more datasets and add them to your profile. Learn more about using the search feature [here](search-feature).
 
 ## Understanding Your S-index
 
@@ -41,8 +41,7 @@ For more information about the S-index, we refer to the [Concepts](/s-index-guid
 
 Your Scholar Data profile is public and linkable. You can, for instance:
 
-- Add the URL to your CV, ORCID profile, or lab website
+- Add the URL to your CV, ORCID profile, or lab website. See, for instance, how this user integrated their Scholar Data profile link on their [university website profile page](https://profiles.auckland.ac.nz/d-nickerson), along with links to their Google Scholar, LinkedIn, and GitHub pages.
 - Share it directly with grant reviewers or hiring committees
 
-You can also embed your S-index on your personal website, lab page, or GitHub profile using a single iframe (no backend required). The card shows your S-index, dataset
-count, citations, and mentions at a glance. You can also add an SVG badge to your README or fetch your metrics as JSON to build your own display. See the [Integrations page](https://scholardata.io/integrations) for more details.
+You can also embed your S-index on your personal website, lab page, or GitHub profile using a single iframe (no backend required) as explained on our [Integrations page](https://scholardata.io/integrations).
