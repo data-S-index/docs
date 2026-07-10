@@ -30,6 +30,36 @@ counted twice. Scholar Data currently tracks over 7.6 million unique citations t
 | DataCite                             | April 30, 2026            | 5,576,297                                         |
 | **Total (deduplicated)**             |                           | **8,610,545**                                     |
 
+<!--
+```sql
+SELECT
+    'Make Data Count Data Citation Corpus' AS "Source",
+    COUNT(CASE WHEN "mdc" = TRUE THEN 1 END) AS "Unique Citations"
+FROM "Citation"
+
+UNION ALL
+
+SELECT
+    'OpenAlex' AS "Source",
+    COUNT(CASE WHEN "openAlex" = TRUE THEN 1 END) AS "Unique Citations"
+FROM "Citation"
+
+UNION ALL
+
+SELECT
+    'DataCite' AS "Source",
+    COUNT(CASE WHEN "datacite" = TRUE THEN 1 END) AS "Unique Citations"
+FROM "Citation"
+
+UNION ALL
+
+SELECT
+    'Total (deduplicated)' AS "Source",
+    COUNT(*) AS "Unique Citations"
+FROM "Citation";
+```
+-->
+
 ## Why Might a Citation Be Missing?
 
 - The citing paper was published after the last database update
