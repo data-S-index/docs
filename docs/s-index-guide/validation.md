@@ -39,8 +39,6 @@ This effort also allowed us to validate the scalability of the S-index across th
 
 ## Validating Usefulness
 
-## Useful Behavior
-
 Beyond confirming the S-index could be computed at scale, our validation confirmed it produces a genuinely useful index, meaning one that meaningfully differentiates data-sharing impact rather than clustering everyone together.
 
 Across 4M auto-computed researcher S-index values, the S-index distribution is heavy-tailed: most researchers sit at low scores, forming a single unimodal peak, while a much smaller number extend far out into a long tail spanning multiple orders of magnitude (Figures 1 and 2). The typical (median) S-index is 1.2, while elite performance (top 1%) starts above 48.6, which is over 40 times higher than the median. This shape is exactly what makes it a useful impact metric: it doesn't compress everyone into a narrow band where small differences look arbitrary, and it doesn't produce a flat, uninformative spread either.
