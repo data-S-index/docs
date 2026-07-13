@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 import texmath from "markdown-it-texmath";
 import katex from "katex";
+import { mermaidPlugin } from "./plugins/vitepress-mermaid";
 
 // https://vitepress.dev/reference/site-config
 
@@ -14,6 +15,7 @@ export default defineConfig({
         engine: katex,
         delimiters: "dollars",
       });
+      md.use(mermaidPlugin);
     },
   },
   head: [
@@ -93,6 +95,7 @@ export default defineConfig({
       },
       { text: "Concepts", link: "s-index-guide/concepts" },
       { text: "Data Collection", link: "/data-collection/datasets" },
+      { text: "Development", link: "/development" },
     ],
 
     sidebar: [
@@ -158,6 +161,7 @@ export default defineConfig({
           },
         ],
       },
+      { text: "Platform Development", link: "/development", items: [] },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/data-S-index" }],
     footer: {
