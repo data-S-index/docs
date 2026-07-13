@@ -81,6 +81,9 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
+    search: {
+      provider: "local",
+    },
     editLink: {
       pattern: "https://github.com/data-S-index/docs/tree/main/docs/:path",
     },
