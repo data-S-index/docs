@@ -1,10 +1,10 @@
-# Scholar Data Development
+# Platform Development
 
 This page describes the architecture, tools, and platforms used to build and run Scholar Data. It's meant as a reference for the team and for anyone curious about how the platform works under the hood.
 
 ## Application Stack
 
-Scholar Data is a single [Nuxt](https://nuxt.com/) application, using [Nitro](https://nitro.build/) as the server engine for both frontend rendering and backend API routes. The codebase is written in TypeScript, with [Nuxt UI](https://ui.nuxt.com/) as the component library.
+Scholar Data is a single [Nuxt](https://nuxt.com/) application, using [Nitro](https://nitro.build/) as the server engine for both frontend rendering and backend API routes. The codebase is written in TypeScript, with [Nuxt UI](https://ui.nuxt.com/) as the component library. The source code is available on GitHub at [data-S-index/web-app](https://github.com/data-S-index/web-app).
 
 ## Data Layer
 
@@ -16,8 +16,8 @@ Scholar Data is a single [Nuxt](https://nuxt.com/) application, using [Nitro](ht
 
 Scholar Data runs on two [DigitalOcean](https://www.digitalocean.com/) virtual machines:
 
-- **Data VM**: runs PostgreSQL, Meilisearch, and Redis. It is not exposed to the public internet (the only access is through [Tailscale](https://tailscale.com/)).
-- **App VM**: runs the Nuxt/Nitro application (frontend and backend) and is the only publicly reachable service. It connects to Postgres, Meilisearch, and Redis on the Data VM over the Tailscale private network.
+- **Data VM**: runs PostgreSQL, Meilisearch, and Redis, each as Docker containers. It is not exposed to the public internet (the only access is through [Tailscale](https://tailscale.com/)).
+- **App VM**: runs the Nuxt/Nitro application (frontend and backend) as a Docker container and is the only publicly reachable service. It connects to Postgres, Meilisearch, and Redis on the Data VM over the Tailscale private network.
 
 Keeping the database and cache off the public internet while still letting the app reach them directly is the main reason for this split.
 
