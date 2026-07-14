@@ -96,9 +96,15 @@ export default defineConfig({
         text: "Browse and Explore",
         link: "/using-scholar-data/browse-explore",
       },
-      { text: "Concepts", link: "s-index-guide/concepts" },
-      { text: "Data Collection", link: "/data-collection/datasets" },
-      { text: "Development", link: "/development" },
+      {
+        text: "Concepts",
+        link: "/s-index-guide/concepts",
+      },
+      {
+        text: "Data Collection",
+        link: "/data-collection/datasets",
+        activeMatch: "/data-collection/",
+      },
     ],
 
     sidebar: [
@@ -108,19 +114,19 @@ export default defineConfig({
         items: [
           {
             text: "For Researchers",
-            link: "using-scholar-data/for-researchers",
+            link: "/using-scholar-data/for-researchers",
           },
           {
             text: "For Data Repositories",
-            link: "using-scholar-data/for-repositories",
+            link: "/using-scholar-data/for-repositories",
           },
           {
             text: "Browse and Explore",
-            link: "using-scholar-data/browse-explore",
+            link: "/using-scholar-data/browse-explore",
           },
           {
             text: "Search Feature",
-            link: "using-scholar-data/search-feature",
+            link: "/using-scholar-data/search-feature",
           },
         ],
       },
@@ -129,23 +135,23 @@ export default defineConfig({
         items: [
           {
             text: "Concepts",
-            link: "s-index-guide/concepts",
+            link: "/s-index-guide/concepts",
           },
           {
             text: "Validation",
-            link: "s-index-guide/validation",
+            link: "/s-index-guide/validation",
           },
           {
             text: "Design Rationale",
-            link: "s-index-guide/design",
+            link: "/s-index-guide/design",
           },
           {
             text: "Understanding Your S-index",
-            link: "s-index-guide/understanding",
+            link: "/s-index-guide/understanding",
           },
           {
             text: "Improving",
-            link: "s-index-guide/improving",
+            link: "/s-index-guide/improving",
           },
         ],
       },
