@@ -79,6 +79,16 @@ export default defineConfig({
         href: "https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css",
       },
     ],
+    [
+      "script",
+      {
+        src: "https://umami.fairdataihub.org/mushroom",
+        crossorigin: "anonymous",
+        async: true,
+        defer: true,
+        "data-website-id": "ce4f55fc-4f8b-41a2-b519-704867ce8ac2",
+      },
+    ],
   ],
   themeConfig: {
     search: {
