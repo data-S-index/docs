@@ -29,6 +29,8 @@ Once your profile is set up, you can add datasets to it by clicking **Add a data
 
 At this stage, you can only add datasets that are registered in the Scholar Data database (see the [Data Collection](/data-collection/datasets) section for more details). You can use the search bar to find more datasets and add them to your profile. Learn more in the [Search Feature](search-feature) page.
 
+You can also add datasets from the dataset pages as you are browsing them. See the [Browsing Datasets](browse-explore#browsing-datasets) section for more details.
+
 ## Understanding Your S-index
 
 Once you add datasets, you will see your **S-index** (Sharing Index) on your profile page. It is your top-level data sharing impact score. It works similarly to the h-index for publications: it reflects how broadly and consistently your datasets are made FAIR, cited, and mentioned.

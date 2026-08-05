@@ -20,6 +20,8 @@ Each dataset has its own impact page showing its D-index, FAIR score, citation c
 
 This is useful for exploring how datasets in a particular field are performing, checking the impact of one of your datasets without logging in, or simply getting a feel for how D-index scores vary across different types of datasets.
 
+If you are logged in, you will also see a **Claim dataset** button to add a dataset you are browsing to your profile.
+
 ## Evaluating a Dataset by DOI or URL
 
 Can't find a dataset in the browse results? The [Evaluate](https://scholardata.io/evaluate) page lets you submit any dataset DOI or URL and Scholar Data will generate its impact page on the spot.
