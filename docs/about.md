@@ -1,6 +1,6 @@
 # About Scholar Data
 
-Scholar Data is a platform for measuring, improving, and showcasing the impact of research datasets. It gives researchers and organizations a dedicated space to track and display how their shared datasets are being discovered, cited, and reused across the scientific community.
+Scholar Data is a platform for measuring, improving, and showcasing the impact of research datasets. It gives researchers and organizations a dedicated space to track and display how their shared datasets are being discovered, cited, and reused across the scientific community. Think of it as Google Scholar, but for datasets instead of manuscripts.
 
 **→ Ready to create your profile and brag about your datasets? Head straight to the [Scholar Data](https://scholardata.io).**
 
@@ -10,7 +10,7 @@ Despite growing adoption of data sharing in research, there has been no standard
 
 Scholar Data is being developed as part of an [NIH-organized S-index Challenge](https://www.nei.nih.gov/research-and-training/research-news/nih-challenge-aimed-incentivizing-data-sharing-recognizes-phase-1-winners) to address this gap. The platform introduces the **S-index** (Sharing Index), a novel metric that evaluates a researcher's data sharing impact based on dataset-level signals of FAIRness, citations, and alternative mentions.
 
-The S-index and Scholar Data efforts are conducted by a multidisciplinary team of researchers led by [Bhavesh Patel](https://www.linkedin.com/in/bvhpatel), with major contributions from [Sanjay Soundarajan](https://www.linkedin.com/in/sanjay-soundarajan/), and support from [Aaron Lee](https://www.linkedin.com/in/leeay/), [Cecilia Lee](https://www.linkedin.com/in/cecilia-s-lee-md-ms-3129102a0/), [James O'Neill](https://www.linkedin.com/in/jimnoneill/), and [Aydan Gasimova](https://github.com/Aydawka). The team is one of the seven finalist teams selected for Phase 2 of the NIH S-index challenge, with results to be announced in July 2026.
+The S-index and Scholar Data efforts are conducted by a multidisciplinary team of researchers led by [Bhavesh Patel](https://www.linkedin.com/in/bvhpatel), with major contributions from [Sanjay Soundarajan](https://www.linkedin.com/in/sanjay-soundarajan/), and support from [Aaron Lee](https://www.linkedin.com/in/leeay/), [Cecilia Lee](https://www.linkedin.com/in/cecilia-s-lee-md-ms-3129102a0/), [James O'Neill](https://www.linkedin.com/in/jimnoneill/), and [Aydan Gasimova](https://github.com/Aydawka). The team is [won the S-index Challenge in July 2026](https://www.nei.nih.gov/research-and-training/research-news/nih-announces-winners-s-index-challenge-advance-data-sharing-across-biomedical-research) and is now continuing to work on Scholar Data to improve the platform and drive adoption.
 
 ## What is the S-index?
 
@@ -30,9 +30,9 @@ The platform's source code is open and available in the [Scholar Data GitHub rep
 
 ## Platform Status
 
-In response to community interest, Scholar Data has **officially launched** in May 2026 as a full platform. What began as a public beta as part of the NIH S-index Challenge has grown into a production-ready service, with researchers actively creating profiles, claiming datasets, and tracking their data sharing impact.
+In response to community interest, Scholar Data was **officially launched** in May 2026 as a full platform. What began as a public beta as part of the NIH S-index Challenge has grown into a production-ready service, with researchers actively creating profiles, claiming datasets, and tracking their data sharing impact.
 
-The cost of running the platform is currently modest (~$200/month) and covered by Bhavesh Patel. If we win the challenge, we expect there will be funding opportunities to support the platform long term and enable further developments to increase dataset coverage and user experience.
+The cost of running the platform is currently modest (~$300/month) and covered by Bhavesh Patel. Now that we have won the S-index Challenge, we expect there will be funding opportunities to support the platform long term and enable further developments to increase dataset coverage and user experience, and enable collaborations with relevant stakeholders.
 
 ## Contact
 

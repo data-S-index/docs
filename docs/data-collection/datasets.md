@@ -44,6 +44,8 @@ database. This can happen if:
 In these cases, you can still evaluate the impact of your dataset from the [Evaluate Datasets](https://scholardata.io/evaluate)
 page, but cannot add it to your profile yet (user-suggested dataset inclusion is something we are working on).
 
+If you are a repository developer or manager, you can request your datasets to be track. Instructions are provided in the ["For Repositories" page](/using-scholar-data/for-repositories.md) of this documentation.
+
 ## Processing Notes
 
 ### Metadata Processing
