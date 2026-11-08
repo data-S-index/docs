@@ -78,7 +78,7 @@ For code snippets, a live widget preview, and a DOI tester, visit the **[integra
 
 ## Report an Issue
 
-If your repository is already being tracked but you notice discrepancies—such as missing metrics, incorrect metadata, or harvesting errors, we want to fix it.
+If your repository is already being tracked but you notice discrepancies, such as missing metrics, incorrect metadata, or harvesting errors, we want to fix it.
 
 Please report any issues directly by opening a bug report on our GitHub repository:
 
