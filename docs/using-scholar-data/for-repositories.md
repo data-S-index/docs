@@ -23,7 +23,7 @@ To check if your datasets are tracked, you can use the dataset search feature he
 
 We are currently expanding our harvesting pipelines to include datasets from additional repositories. If your datasets are not tracked, please submit a request via our GitHub issue intake form so we can build your integration:
 
-[👉 Submit a Tracking Request](https://github.com/data-S-index/web-app/issues/new?template=repository-indexing-request.yml)
+[👉 Submit a Tracking Request](https://github.com/data-S-index/web-app/issues/new?template=repository-tracking-request.yml)
 
 ## Showcase Impact on Your Platform
 
